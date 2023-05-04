@@ -2,7 +2,6 @@ public class Equipamento {
     private String nome;
     private double preco;
     
-    
     public Equipamento(String nome, double preco) {
         this.nome = nome;
         this.preco = preco;
